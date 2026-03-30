@@ -1,0 +1,27 @@
+A. for main table 
+1. SMD : https://drive.google.com/drive/folders/1RaIJQ8esoWuhyphhmMaH-VCDh-WIluRR
+2. PSM : https://drive.google.com/drive/folders/1RaIJQ8esoWuhyphhmMaH-VCDh-WIluRR
+3. SWaT : https://drive.google.com/drive/folders/1RaIJQ8esoWuhyphhmMaH-VCDh-WIluRR
+4. MSL : https://drive.google.com/drive/folders/1RaIJQ8esoWuhyphhmMaH-VCDh-WIluRR
+5. SMAP : https://drive.google.com/drive/folders/1RaIJQ8esoWuhyphhmMaH-VCDh-WIluRR
+6. NIPS_TS_SWAN : https://drive.google.com/drive/folders/1RaIJQ8esoWuhyphhmMaH-VCDh-WIluRR 
+@inproceedings{yang2023dcdetector,
+  title={DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection},
+  author={Yiyuan Yang and Chaoli Zhang and Tian Zhou and Qingsong Wen and Liang Sun},
+  booktitle={Proc. 29th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD 2023)},
+  location = {Long Beach, CA},
+  pages={3033–3045},
+  year={2023}
+}
+
+
+B. for sub table with D3R (https://github.com/ForestsKing/D3R.git)
+1. PSM : https://drive.google.com/drive/folders/1UJ6SGfb6h-9R0L18FLDXpISKh1nhaqWA
+2. SMD : https://drive.google.com/drive/folders/1UJ6SGfb6h-9R0L18FLDXpISKh1nhaqWA
+3. SWaT : https://drive.google.com/drive/folders/1UJ6SGfb6h-9R0L18FLDXpISKh1nhaqWA
+@inproceedings{
+  author    = {Chengsen Wang and Zirui Zhuang and Qi Qi and Jingyu Wang and Xingyu Wang and Haifeng Sun and Jianxin Liao},
+  title     = {Drift doesn't matter: Dynamic decomposition with diffusion reconstruction for unstable multivariate time series anomaly detection},
+  booktitle = {Thirty-seventh Conference on Neural Information Processing Systems},
+  year      = {2023},
+}
